@@ -1,0 +1,15 @@
+venv/ 
+*.pth 
+voxalign_db/ 
+__pycache__/ 
+build/ 
+dist/ 
+customers.csv 
+CREMA-D/ 
+IEMOCAP/ 
+MELD/ 
+RAVDESS/ 
+SAVEE/ 
+TESS/ 
+FINAL_MULTIMODAL_DATASET.csv 
+.env
